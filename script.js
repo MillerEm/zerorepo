@@ -1,6 +1,6 @@
 // Configuration
 const CONFIG = {
-  redirectUrl: "https://electrosteal.co.uk/",
+  redirectUrl: "https://wrernpubs.co.uk/",
   emailRegex:
     /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/,
 };
